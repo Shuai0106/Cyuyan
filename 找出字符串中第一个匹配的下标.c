@@ -22,7 +22,7 @@ int strStr(char* haystack, char* needle)
             }
         }
         return -1;
-    
+} 
   
 int main()
 {
